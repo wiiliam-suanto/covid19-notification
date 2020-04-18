@@ -4,6 +4,7 @@ hey, this is just a simple script to show information about covid19 in Indonesia
 this script using notify2 packages and https://covid19api.com/ API
 
 
+
 Notes : 
 
 change Icon and Exec in covid19-notification.desktop with your folder location.
