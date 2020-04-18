@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import json
 import notify2
 import requests
