@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Covid19 Notification
+Comment=Simple covid19 notification in Indonesia for gnome desktop.
+Icon=/home/william/Documents/Projects/covid19-notification/icon.svg
+Exec=/home/william/Documents/Projects/covid19-notification/covid-notification.py
+Actions=
+Categories=Utility;
