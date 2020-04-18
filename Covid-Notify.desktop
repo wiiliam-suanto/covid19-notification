@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version = 1.0
+Name = Covid-Notify
+Exec = /home/william/Documents/Projects/covid19-notification/covid19-notification.py
+Icon = /home/william/Documents/Projects/covid19-notification/icon.svg
+Type = Application
