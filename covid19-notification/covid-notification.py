@@ -31,11 +31,11 @@ def initSystem():
         #lastUpdate = element['Date']
     
     stringList = ['Country : ',country, '\n', 
-                  'Confirmed: ',confirm, '\n',
-                  'Death: ',death, '\n',
-                  'Recovered: ',recovered, '\n',
+                  'Confirmed : ',confirm, '\n',
+                  'Death : ',death, '\n',
+                  'Recovered : ',recovered, '\n',
                   'Time : ', todayTime, '\n',
-                  'Visit this site for more information ', infoURL
+                  'Visit this site for more information : ', infoURL
                  ]
     stringOutput = ''.join(str(i) for i in stringList )
 
